@@ -23,3 +23,7 @@ npm install
 ```
 
 During development use the grunt task runner to lint, concatenate, and minify files to the `dist/` directory.
+
+```
+grunt watch
+```
